@@ -1,23 +1,16 @@
-# LAB: Deployment
+# LAB - 00
 
-### Get this code up and running Travis and Heroku!
+## Deployment
 
-#### Getting Started
-Refer to *Getting Started* in the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for complete setup instructions
+### Author: Joé Jemmely
 
-## Requirements
+### Links and Resources
 
-- Create a branch rule disallowing merges to master unless Travis builds are green
+- [submission PR](https://github.com/401-advanced-javascript-joejemmely/lab-00/pull/1)
+- [travis](https://travis-ci.com/401-advanced-javascript-joejemmely/lab-00)
 
-- Connect Travis to your git account
-  - Check that travis finds this newly created repo
+#### Documentation
 
-- Connect your Heroku to your git repo
-  - Set heroku to auto deploy from master (or any named branch)
-  - Optional: set heroku to require CI (this will cause Heroku to deploy with and only with passing travis build)
-
-## Testing
-* tests in starter code pass in travis
-
-### Assignment Submission Instructions
-Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations
+- [api docs](http://xyz.com) (API servers)
+- [jsdoc](http://xyz.com) (Server assignments)
+- [styleguide](http://xyz.com) (React assignments)
