@@ -3,13 +3,11 @@
 let pol = require('../pol.js');
 
 describe('proof of life', () => {
-
   it('lives by default', () => {
-    expect(pol.isAlive()).toBeTruthy();
+    expect(pol.isAlive('d')).toBeTruthy();
   });
 
   it('dies with a param', () => {
     expect(pol.isAlive('x')).toBeFalsy();
   });
-
 });
