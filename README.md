@@ -7,4 +7,4 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/401-advanced-javascript-joejemmely/lab-00/pull/1)
-- [travis](https://travis-ci.com/401-advanced-javascript-joejemmely/lab-00/builds/111655614)
+- [travis](https://travis-ci.com/401-advanced-javascript-joejemmely/lab-00)
