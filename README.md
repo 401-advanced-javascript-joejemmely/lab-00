@@ -8,3 +8,4 @@
 
 - [submission PR](https://github.com/401-advanced-javascript-joejemmely/lab-00/pull/1)
 - [travis](https://travis-ci.com/401-advanced-javascript-joejemmely/lab-00)
+- [front-end](https://lab-00-joejemmely.herokuapp.com/)
